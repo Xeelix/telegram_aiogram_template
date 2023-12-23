@@ -1,0 +1,6 @@
+.env
+settings.ini
+
+*.log
+
+.idea
